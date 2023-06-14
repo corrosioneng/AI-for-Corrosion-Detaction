@@ -6,25 +6,25 @@ build/
 local.properties
 
 # Log/OS Files
-*.log
+AICORR.log
 
 # Android Studio generated files and folders
 captures/
 .externalNativeBuild/
 .cxx/
-*.apk
+AICORR.apk
 output.json
 
 # IntelliJ
-*.iml
+AICORR.iml
 .idea/
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
 
 # Keystore files
-*.jks
-*.keystore
+AICORR.jks
+AICORR.keystore
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
